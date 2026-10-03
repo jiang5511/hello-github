@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# C / C++
+*.exe
+*.o
+*.obj
+
+# MATLAB
+*.asv
+*.m~
+
+# 大文件
+*.zip
+*.mp4
+*.rar
+
+# 编辑器
+.vscode/
+.idea/
+
+# 系统
+Thumbs.db
+.DS_Store
